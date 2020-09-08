@@ -122,7 +122,7 @@ ul{
 }
 
 .resume{
-  display: block;
+  display: grid;
   grid-template-columns: 40% 1fr;
   grid-gap: 2rem;
   background-color: white;
